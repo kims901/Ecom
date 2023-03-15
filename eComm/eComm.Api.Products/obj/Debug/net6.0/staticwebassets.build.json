@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zkq0nMUC5nXTMX/kJrzmw0V8uONdpMVy0U47MNe+a8s=",
+  "Source": "eComm.Api.Products",
+  "BasePath": "_content/eComm.Api.Products",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

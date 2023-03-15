@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eComm.Api.Products", "eComm.Api.Products\eComm.Api.Products.csproj", "{86A5BF7C-1935-4BAC-A0F5-87C91E666077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eComm.Api.Orders", "eComm.Api.Orders\eComm.Api.Orders.csproj", "{25B13FFE-2EE9-429B-AB57-260F2970F94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A5BF7C-1935-4BAC-A0F5-87C91E666077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A5BF7C-1935-4BAC-A0F5-87C91E666077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A5BF7C-1935-4BAC-A0F5-87C91E666077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A5BF7C-1935-4BAC-A0F5-87C91E666077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B13FFE-2EE9-429B-AB57-260F2970F94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B13FFE-2EE9-429B-AB57-260F2970F94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B13FFE-2EE9-429B-AB57-260F2970F94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B13FFE-2EE9-429B-AB57-260F2970F94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6152DA96-9221-4DB1-829C-7357D34CAF5B}
+	EndGlobalSection
+EndGlobal

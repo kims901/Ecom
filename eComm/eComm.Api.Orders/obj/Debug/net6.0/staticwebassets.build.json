@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r0kNUdrXUL6P3OmxmMWTScDxjpJYlnROVUmKJRQsKHM=",
+  "Source": "eComm.Api.Orders",
+  "BasePath": "_content/eComm.Api.Orders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
